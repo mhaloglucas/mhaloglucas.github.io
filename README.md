@@ -1,2 +1,3 @@
-# mhaloglucas.github.io
-I am Murat, and this is my personal portfolio.
+theme: jekyll-theme-minimal
+title: Murat's Homepage
+description: Bookmark this to keep an eye on my project updates!
