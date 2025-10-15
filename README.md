@@ -7,7 +7,6 @@ Hi, I'm Murat Haloglu Castillo — welcome to my portfolio!
   - Python (pandas, NumPy, scikit-learn, TensorFlow / Keras, matplotlib / seaborn)
   - R (tidyverse, caret)
   - SQL (BigQuery)
-- **Projects:** Active on [Kaggle](https://www.kaggle.com/murathaloglu) and regularly create data-driven side-projects
 - **Current focus:** Deepening my skills in SQL and PyTorch-based deep learning
 - **Let's connect:** [LinkedIn](https://www.linkedin.com/in/mhaloglu/), Email: m.haloglu@outlook.com
 
