@@ -13,7 +13,7 @@ Hi, I'm Murat Haloglu Castillo — welcome to my portfolio!
   - R (tidyverse, caret)
   - SQL (BigQuery)
 - **Current focus:** Deepening my skills in SQL and PyTorch-based deep learning
-- **Let's connect:** [LinkedIn](https://www.linkedin.com/in/mhaloglu/), Email: m.haloglu@outlook.com
+- **Let's connect:** [LinkedIn](https://www.linkedin.com/in/mhaloglu/), [Email](mailto:m.haloglu@outlook.com)
 
 Always open to collaborating on analytical projects or new challenges!
 
