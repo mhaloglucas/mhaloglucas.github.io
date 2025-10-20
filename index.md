@@ -7,7 +7,7 @@ title: "Murat's Homepage"
 
 Hi, I am **Murat Haloglu Castillo** 👋—welcome to my portfolio!
 
-I am passionate about using data to generate business opportunities and answer business challenges (and other fun data projects). With a Master's in Data Science (focus: social analytics) from Durham University and hands-on experience in venture capital, I thrive on tough analytical challenges and creative solutions.
+I am passionate about using data to generate business opportunities and answer business challenges (and other fun projects). With a Master's in Data Science (focus: social analytics) from Durham University and hands-on experience in venture capital, I thrive on tough analytical challenges and creative solutions.
 
 **🔎 Programming Languages & Libraries**
 - Python (pandas, NumPy, scikit-learn, TensorFlow/Keras, matplotlib/seaborn)
@@ -16,7 +16,7 @@ I am passionate about using data to generate business opportunities and answer b
 
 **💼 Experience**
 - Former Venture Capital Analyst & Investor @ Plug and Play
-- Specialized in Fintech, Energy, and Supply Chain (EMEA & US)
+- Specialised in Fintech, Energy, and Supply Chain technologies across EMEA & US markets
 
 **🚀 Current Focus**
 - Deepening expertise in SQL and PyTorch-based deep learning
