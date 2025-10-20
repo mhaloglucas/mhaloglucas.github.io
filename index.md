@@ -35,5 +35,3 @@ I am always open to collaborating on data projects or exploring new opportunitie
   - *My contributions and methods:* I performed exploratory data analysis, applied robust imputation for missing data, engineered/encoded features, and experimented with classifiers including Logistic Regression, SVM, Random Forests, and XGBoost.
   - *Results:* Achieved classification accuracy near 80% (validated on hidden test set).
   - *Interesting fact:* Nearly 80% of passengers in CryoSleep were transported, compared to a significantly lower proportion among those awake. This suggests a possible association between being motionless at the moment of collision and increased likelihood of transportation—an observation that could inspire future analysis.
- 
-  - 
