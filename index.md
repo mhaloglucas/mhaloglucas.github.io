@@ -19,11 +19,7 @@ Always open to collaborating on analytical projects or new challenges!
 
 
 ## Projects
-
-### Kaggle Projects
-[My profile](https://www.kaggle.com/murathaloglu) 
-
-- **[Spaceship Titanic:](https://www.kaggle.com/code/murathaloglu/spaceship-titanic-script)**
+- **[Kaggle dataset: Spaceship Titanic](https://www.kaggle.com/code/murathaloglu/spaceship-titanic-script)**
   - *Description:* Built a binary classification model to predict which passengers were transported to an alternate dimension after the interstellar spacecraft incident.
   - *My contributions and methods:* I performed exploratory data analysis, applied robust imputation for missing data, engineered/encoded features, and experimented with classifiers including Logistic Regression, SVM, Random Forests, and XGBoost.
   - *Results:* Achieved classification accuracy near 80% (validated on hidden test set).
