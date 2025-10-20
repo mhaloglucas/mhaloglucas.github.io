@@ -1,4 +1,4 @@
----
+i---
 ---
 @import "{{ site.theme }}";
 /* ---- WIDER CONTENT AREA ---- */
@@ -35,4 +35,14 @@
 .main-content p {
   font-size: 1.05rem;
   line-height: 1.7;
+}
+
+/* ---- HEADER COLORS - All headers set to single color ---- */
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5,
+.main-content h6 {
+  color: #1a1a1a;
 }
