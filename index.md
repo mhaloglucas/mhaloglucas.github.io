@@ -3,8 +3,6 @@ layout: default
 title: "Murat's Homepage"
 ---
 
-Welcome! This site is under constant maintenance—check back for updates.
-
 ## About Me
 Hi, I'm Murat Haloglu Castillo — welcome to my portfolio!
 - **Education:** Master's in Data Science graduate from Durham University, with a focus on social analytics
