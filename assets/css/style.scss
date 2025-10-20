@@ -1,0 +1,47 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* ---- HERO / PAGE HEADER ---- */
+.page-header {
+  background-image: url("/assets/img/hero.jpg"); /* your image */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+
+  position: relative;
+}
+.page-header::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0,0,0,0.35);
+}
+.project-name,
+.project-tagline {
+  position: relative;
+}
+
+/* ---- WIDER CONTENT AREA ---- */
+.main-content, .site-footer {
+  max-width: 1100px;  
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (max-width: 900px) {
+  .main-content, .site-footer {
+    max-width: 95%;
+    width: 95%;
+  }
+}
+
+.main-content p {
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
