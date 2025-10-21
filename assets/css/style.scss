@@ -1,14 +1,19 @@
 ---
 ---
+
+/* 1) Load the Cayman theme first so our rules below win */
 @import "{{ site.theme }}";
-/* ---- WIDER CONTENT AREA ---- */
-.main-content, .site-footer {
-  max-width: 1400px;   /* make the text area much wider */
-  width: 95%;          /* take up 95% of the screen width */
+
+/* 2) Layout: wider content area */
+.main-content,
+.site-footer {
+  max-width: 1400px;
+  width: 95%;
   margin-left: auto;
   margin-right: auto;
 }
-/* Optional: stretch header as well */
+
+/* 3) Header background + structure */
 .page-header {
   padding-left: 2rem;
   padding-right: 2rem;
@@ -19,48 +24,52 @@
   background-color: transparent;
   position: relative;
 }
-/* Ensure header text is styled properly */
-.page-header > h1,
-.page-header > h2,
+
+/* 4) Make title and description look IDENTICAL (and beat Cayman defaults) */
+.page-header .project-name,
+.page-header .project-tagline {
+  color: #fff !important;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.8) !important;
+  opacity: 1 !important;           /* Cayman sets tagline opacity < 1; kill that */
+  font-weight: 700;                 /* Optional: match visual weight with H1 */
+}
+
+/* If you also have any plain <p> in the header, give them the same treatment */
 .page-header > p {
   color: #fff;
   text-shadow: 2px 2px 8px rgba(0,0,0,0.8);
-  z-index: 2;
   position: relative;
+  z-index: 2;
 }
-/* Style for maintenance banner below header */
+
+/* 5) Optional: keep maintenance banner/subtitle readable over the image */
 .maintenance-banner,
 .site-subtitle {
   color: #fff;
   text-shadow: 2px 2px 8px rgba(0,0,0,0.8);
 }
-/* Keep it readable on small screens */
-@media (max-width: 900px) {
-  .main-content, .site-footer {
-    max-width: 95%;
-    width: 95%;
-  }
-}
-@media (max-width: 900px) {
-  .main-content, .site-footer {
-    max-width: 95%;
-    width: 95%;
-  }
-}
+
+/* 6) Body text readability */
 .main-content p {
   font-size: 1.05rem;
   line-height: 1.7;
 }
-/* ---- HEADER COLORS - All headers set to single color ---- */
+
+/* 7) Header colors inside the main content area (not the page header) */
 .main-content h1,
-.main-content h2:not(.project-tagline),
+.main-content h2,
 .main-content h3,
 .main-content h4,
 .main-content h5,
 .main-content h6 {
   color: #1a1a1a;
 }
-.project-tagline {
-  color: #fff !important;
-  text-shadow: 2px 2px 8px rgba(0,0,0,0.8) !important;
+
+/* 8) Responsive: keep things sane on small screens */
+@media (max-width: 900px) {
+  .main-content,
+  .site-footer {
+    max-width: 95%;
+    width: 95%;
+  }
 }
