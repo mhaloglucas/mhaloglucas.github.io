@@ -12,8 +12,11 @@
 .page-header {
   padding-left: 2rem;
   padding-right: 2rem;
-  background-color: #800080;  /* solid purple background */
-  background-image: none;     /* remove background image */
+  background-image: url('../hero.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: transparent;
 }
 /* Remove/disable the overlay effect on page-header */
 .page-header::before {
