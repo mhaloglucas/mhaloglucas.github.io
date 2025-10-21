@@ -53,7 +53,7 @@
 }
 /* ---- HEADER COLORS - All headers set to single color ---- */
 .main-content h1,
-.main-content h2,
+.main-content h2:not(.project-tagline),
 .main-content h3,
 .main-content h4,
 .main-content h5,
