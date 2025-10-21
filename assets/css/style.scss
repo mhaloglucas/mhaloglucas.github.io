@@ -28,6 +28,12 @@
   z-index: 2;
   position: relative;
 }
+/* Style for maintenance banner below header */
+.maintenance-banner,
+.site-subtitle {
+  color: #fff;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.8);
+}
 /* Keep it readable on small screens */
 @media (max-width: 900px) {
   .main-content, .site-footer {
