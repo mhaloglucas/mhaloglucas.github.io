@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Murat's Homepage"
+title: "Murat Haloglu Castillo"
 ---
 
 ## About Me
