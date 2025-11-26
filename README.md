@@ -1,7 +1,6 @@
 # Murat Haloglu Castillo — Portfolio Site
 
-This repository contains the source code for my portfolio website, hosted with GitHub Pages.  
+This repository contains the source code for my portfolio website.  
 Visit the site at: [https://mhaloglucas.github.io/]  
 
-Curious about my data science projects?
-Feel free to connect if you want to chat or collaborate!
+Let's connect if you want to collaborate or just chat. 
