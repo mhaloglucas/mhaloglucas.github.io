@@ -51,6 +51,8 @@ I am passionate about using data to generate business opportunities and answer b
 - Former Venture Capital Analyst & Investor at Plug and Play Tech Center
 - Specialised in Fintech, Energy, and Supply Chain technologies across Europe and the US
 
+
+</details>
 <details open markdown="1">
 <summary>
 ▼ Let's Connect
@@ -60,8 +62,6 @@ I am passionate about using data to generate business opportunities and answer b
 - [Email](mailto:m.haloglu@outlook.com)
 
 Let's chat, I am always open to collaborating on data projects or exploring new opportunities.
-
-</details>
 
 </details>
 
