@@ -29,10 +29,12 @@ details[open] summary {
 }
 </style>
 
-<details open>
+<details open markdown="1">
 <summary>
 ▼ About Me
 </summary>
+
+
 Hi, I am **Murat Haloglu Castillo** —welcome to my portfolio!
 
 I am passionate about using data to generate business opportunities and answer business challenges (and other fun projects). With a Master’s in Data Science (focus: social analytics) from Durham University and hands-on experience in venture capital, I thrive on tough analytical challenges and creative solutions.
