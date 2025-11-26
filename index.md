@@ -29,7 +29,7 @@ details[open] summary {
 }
 </style>
 
-<details open markdown="1">
+<details markdown="1">
 <summary>
 ▼ About Me
 </summary>
@@ -53,7 +53,7 @@ I am passionate about using data to generate business opportunities and answer b
 
 
 </details>
-<details open markdown="1">
+<details markdown="1">
 <summary>
 ▼ Let's Connect
 </summary>
@@ -65,7 +65,7 @@ Let's chat, I am always open to collaborating on data projects or exploring new 
 
 </details>
 
-<details open markdown="1">
+<details markdown="1">
 <summary>
 ▼ Projects
 </summary>
