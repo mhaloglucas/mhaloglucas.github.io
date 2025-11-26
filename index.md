@@ -42,7 +42,7 @@ details[open] summary {
 
 Welcome to my portfolio!
 
-I am passionate about using data to generate business opportunities and answer business challenges (and other fun projects). Having a Master's in Data Science with specialisation in social analytics from Durham University and hands-on experience in venture capital, I thrive on tough analytical challenges and creative solutions.
+I am passionate about using data to generate business opportunities and answer business challenges (and other fun projects). Having a Master's in Data Science with specialisation in social analytics from Durham University, and hands-on experience in venture capital, I thrive on tough analytical challenges and creative solutions.
 
 **Programming Languages & Libraries**
 - Python (pandas, NumPy, scikit-learn, TensorFlow/Keras, matplotlib/seaborn)
