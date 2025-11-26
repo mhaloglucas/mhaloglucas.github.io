@@ -3,11 +3,39 @@ layout: default
 title: "Murat Haloglu Castillo"
 ---
 
-## About Me
+<style>
+details summary {
+  cursor: pointer;
+  padding: 15px 20px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  border-radius: 10px;
+  font-size: 1.3em;
+  font-weight: bold;
+  text-align: center;
+  list-style: none;
+  box-shadow: 0 4px 15px rgba(102,126,234,0.4);
+}
+details summary::-webkit-details-marker {
+  display: none;
+}
+details summary:hover {
+  opacity: 0.9;
+  transform: translateY(-2px);
+}
+details[open] summary {
+  border-radius: 10px 10px 0 0;
+  margin-bottom: 10px;
+}
+</style>
 
+<details open>
+<summary>
+▼ About Me
+</summary>
 Hi, I am **Murat Haloglu Castillo** —welcome to my portfolio!
 
-I am passionate about using data to generate business opportunities and answer business challenges (and other fun projects). With a Master's in Data Science (focus: social analytics) from Durham University and hands-on experience in venture capital, I thrive on tough analytical challenges and creative solutions.
+I am passionate about using data to generate business opportunities and answer business challenges (and other fun projects). With a Master’s in Data Science (focus: social analytics) from Durham University and hands-on experience in venture capital, I thrive on tough analytical challenges and creative solutions.
 
 **Programming Languages & Libraries**
 - Python (pandas, NumPy, scikit-learn, TensorFlow/Keras, matplotlib/seaborn)
@@ -25,8 +53,9 @@ I am passionate about using data to generate business opportunities and answer b
 - [LinkedIn](https://www.linkedin.com/in/mhaloglu/)
 - [Email](mailto:m.haloglu@outlook.com)
 
-I am always open to collaborating on data projects or exploring new opportunities. Let's chat!
+I am always open to collaborating on data projects or exploring new opportunities. Let’s chat!
 
+</details>
 
 ## Projects
 
