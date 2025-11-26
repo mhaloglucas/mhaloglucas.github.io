@@ -16,6 +16,11 @@ details summary {
   list-style: none;
   box-shadow: 0 4px 15px rgba(102,126,234,0.4);
 }
+  
+  details {
+  margin-bottom: 15px;
+}
+
 details summary::-webkit-details-marker {
   display: none;
 }
