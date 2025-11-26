@@ -35,34 +35,47 @@ details[open] summary {
 </summary>
 
 
-Hi, I am **Murat Haloglu Castillo** —welcome to my portfolio!
+Welcome to my portfolio!
 
-I am passionate about using data to generate business opportunities and answer business challenges (and other fun projects). With a Master’s in Data Science (focus: social analytics) from Durham University and hands-on experience in venture capital, I thrive on tough analytical challenges and creative solutions.
+I am passionate about using data to generate business opportunities and answer business challenges (and other fun projects). Having a Master's in Data Science with specialisation in social analytics from Durham University and hands-on experience in venture capital, I thrive on tough analytical challenges and creative solutions.
 
 **Programming Languages & Libraries**
 - Python (pandas, NumPy, scikit-learn, TensorFlow/Keras, matplotlib/seaborn)
 - R (tidyverse, caret)
-- SQL (BigQuery)
-
-**Experience**
-- Former Venture Capital Analyst & Investor @ Plug and Play
-- Specialised in Fintech, Energy, and Supply Chain technologies across EMEA & US markets
+- SQL (PostgreSQL, BigQuery)
 
 **Current Focus**
-- Deepening expertise in SQL and PyTorch-based deep learning
+- Deepening expertise in PyTorch-based deep learning
 
-**Let's Connect**
+**Work Experience**
+- Former Venture Capital Analyst & Investor at Plug and Play Tech Center
+- Specialised in Fintech, Energy, and Supply Chain technologies across Europe and the US
+
+<details open markdown="1">
+<summary>
+▼ Let's Connect
+</summary>
+
 - [LinkedIn](https://www.linkedin.com/in/mhaloglu/)
 - [Email](mailto:m.haloglu@outlook.com)
 
-I am always open to collaborating on data projects or exploring new opportunities. Let’s chat!
+Let's chat, I am always open to collaborating on data projects or exploring new opportunities.
 
 </details>
 
-## Projects
+</details>
+
+<details open markdown="1">
+<summary>
+▼ Projects
+</summary>
+
 
 - **[Kaggle dataset: Spaceship Titanic](https://www.kaggle.com/code/murathaloglu/spaceship-titanic-script)**
   - *Description:* Built a binary classification model to predict which passengers were transported to an alternate dimension after the interstellar spacecraft incident.
   - *My contributions and methods:* I performed exploratory data analysis, applied robust imputation for missing data, engineered/encoded features, and experimented with classifiers including Logistic Regression, SVM, Random Forests, and XGBoost.
   - *Results:* Achieved classification accuracy near 80% (validated on hidden test set).
   - *Interesting fact:* Nearly 80% of passengers in CryoSleep were transported, compared to a significantly lower proportion among those awake. This suggests a possible association between being motionless at the moment of collision and increased likelihood of transportation—an observation that could inspire future analysis.
+
+
+</details>
